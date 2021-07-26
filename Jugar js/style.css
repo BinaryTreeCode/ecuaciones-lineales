@@ -1,0 +1,103 @@
+/* mover caja la derecha */
+.caja {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 45%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
+.caja0 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 45%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
+.caja2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 55%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
+/* centra instrucionse */
+.instruciones {
+    margin-left: 200px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.centro{
+    margin-left:auto;
+    margin-right:auto;
+    width: 60%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f8f8f8;
+}
+
+.titulo{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.subtitulo{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.texto{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
+/* poner boton en la parte de abajo enchansar y centrar */
+.boton{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+/* centrar imagen a la derecha */
+.imagen{
+    margin-left: 95px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+}
